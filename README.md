@@ -23,7 +23,7 @@ AORadar is a cutting-edge radar tool designed to revolutionize your gameplay exp
 
 Have questions, suggestions, or want to connect with fellow Albion Online players? Join our Discord community to stay updated and engage in discussions.
 
-[![AORadar Discord](https://yourdomain.com/discord.png)](https://discord.gg/U8xB4zR6AS)
+[![AORadar Discord]](https://discord.gg/U8xB4zR6AS)
 
 
 Please ensure you review and comply with the terms and conditions of the license while using AORadar.
